@@ -7,7 +7,7 @@ function CoffeeShop() {
       id: 1,
       name: "Espresso",
       price: 2.5,
-      image: "/images/espresso.jpeg",
+      image: "/cofee-shop-new/public/images/espresso.jpeg",
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ function CoffeeShop() {
       id: 4,
       name: "Mocha",
       price: 4,
-      image: "/coffee-shop-new/mocha.jpeg",
+      image: "/images/mocha.jpeg",
     },
     {
       id: 5,
