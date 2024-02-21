@@ -25,7 +25,7 @@ function CoffeeShop() {
       id: 4,
       name: "Mocha",
       price: 4,
-      image: "/images/mocha.jpeg",
+      image: "/coffee-shop-new/mocha.jpeg",
     },
     {
       id: 5,
