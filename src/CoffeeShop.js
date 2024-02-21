@@ -7,32 +7,31 @@ function CoffeeShop() {
       id: 1,
       name: "Espresso",
       price: 2.5,
-      image: "/cofee-shop-new/public/images/espresso.jpeg",
+      image: "images/espresso.jpeg",
     },
     {
       id: 2,
       name: "Latte",
       price: 3.5,
-      image: "/images/latte.jpeg",
+      image: "images/latte.jpeg",
     },
     {
       id: 3,
       name: "Cappuccino",
       price: 3,
-      image: "./coffee-shop-new/cappuccino.jpeg",
+      image: "images/cappuccino.jpeg",
     },
     {
       id: 4,
       name: "Mocha",
       price: 4,
-      image: "/images/mocha.jpeg",
+      image: "images/mocha.jpeg",
     },
     {
       id: 5,
       name: "Americano",
       price: 3,
-      image:
-        "https://github.com/Vinod-Deshmukh/coffee-shop-new/blob/gh-pages/images/americano.jpeg",
+      image: "images/americano.jpeg",
     },
   ];
 
@@ -55,7 +54,7 @@ function CoffeeShop() {
             <div class="column">
               {" "}
               <img
-                src="/images/americano.jpeg"
+                src="images/americano.jpeg"
                 width="50"
                 height="50"
                 class="d-inline-block align-top"
