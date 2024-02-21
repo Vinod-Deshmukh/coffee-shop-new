@@ -19,7 +19,7 @@ function CoffeeShop() {
       id: 3,
       name: "Cappuccino",
       price: 3,
-      image: "/images/cappuccino.jpeg",
+      image: "./coffee-shop-new/cappuccino.jpeg",
     },
     {
       id: 4,
