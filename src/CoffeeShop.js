@@ -31,7 +31,8 @@ function CoffeeShop() {
       id: 5,
       name: "Americano",
       price: 3,
-      image: "/images/americano.jpeg",
+      image:
+        "https://github.com/Vinod-Deshmukh/coffee-shop-new/blob/gh-pages/images/americano.jpeg",
     },
   ];
 
